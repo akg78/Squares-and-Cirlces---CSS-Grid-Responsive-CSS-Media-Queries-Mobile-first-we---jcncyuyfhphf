@@ -8,9 +8,11 @@
 }
 .inner-square {
  background-color: green;
+  margin: 10px;
 
 }
 .circle {
   background-color: blue;
   border-radius: 50%;
+  margin: 10px;
 }
